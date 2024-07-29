@@ -1,0 +1,1 @@
+const gitPushInfo='这是git2文件'
