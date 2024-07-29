@@ -1,1 +1,1 @@
-const gitInfo='测试git操作'
+const gitInfo='我在main分支更新了文件'
